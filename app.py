@@ -23,7 +23,7 @@ if uploaded_file:
         st.subheader("Forecast using LSTM Model")
 
         # Load the LSTM model
-        model = load_model("lstm_model.h5")
+        model = load_model("lstm_model.h5 ")
 
         # Normalize data for LSTM input
         from sklearn.preprocessing import MinMaxScaler
