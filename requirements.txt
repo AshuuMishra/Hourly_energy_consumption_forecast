@@ -4,6 +4,6 @@
 numpy
 pandas
 scikit-learn
-tensorflow
+tensorflow-cpu==2.10.0
 joblib
-streamlit  # only if your app is Streamlit-based
+streamlit
