@@ -1,8 +1,5 @@
-# requirements.txt content
-# Use this file to install dependencies before running the app
-
 numpy
 pandas
 scikit-learn
-tensorflow-cpu==2.12.0
+tensorflow-cpu==2.11.0
 streamlit
